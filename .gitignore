@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env
+venv/
+.env.*
+output_charts/
+*.log
+*.sqlite
+.DS_Store
+.idea/
+.vscode/
