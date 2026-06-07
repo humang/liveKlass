@@ -6,6 +6,8 @@ __pycache__/
 venv/
 .env.*
 output_charts/
+!output_charts/
+!output_charts/screencapture-localhost-8501-2026-06-07-14_20_39.png
 *.log
 *.sqlite
 .DS_Store
