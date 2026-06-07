@@ -38,7 +38,10 @@ docker compose up -d --build
 
 3. 확인 방법
 컨테이너가 정상적으로 실행된 후, 브라우저에서 http://localhost:8501 주소로 접속하면 Streamlit 기반의 인터랙티브 데이터 분석 대시보드를 확인할 수 있습니다.
+### Dashboard Preview
+대시보드가 GitHub에서도 어떻게 보이는지 확인할 수 있도록, 로컬에서 캡처한 스크린샷을 `output_charts/screencapture-localhost-8501-2026-06-07-14_20_39.png`에 저장해 두었습니다.
 
+![Dashboard Preview](output_charts/screencapture-localhost-8501-2026-06-07-14_20_39.png)
 ## 프로젝트 구성 및 파이프라인 상세
 
 - main.py : 세션 기반 이벤트 생성기 애플리케이션
